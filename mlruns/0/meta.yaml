@@ -1,6 +1,6 @@
-artifact_location: file:///D:/code/MLFLOW/mlruns/0
-creation_time: 1698765569178
+artifact_location: file:///D:/code/MLFLOW/mlflowtest/mlruns/0
+creation_time: 1698810884348
 experiment_id: '0'
-last_update_time: 1698765569178
+last_update_time: 1698810884348
 lifecycle_stage: active
 name: Default

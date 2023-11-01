@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/MLFLOW/mlflowtest/mlruns/0/d93d7c19f19b419282ae5608d8d61e5f/artifacts
+end_time: 1698810967768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d93d7c19f19b419282ae5608d8d61e5f
+run_name: traveling-owl-201
+run_uuid: d93d7c19f19b419282ae5608d8d61e5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698810958771
+status: 3
+tags: []
+user_id: Vagis

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/MLFLOW/mlflowtest/mlruns/0/b05681fa05e34fbb98de578907997b6b/artifacts
+end_time: 1698811106633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b05681fa05e34fbb98de578907997b6b
+run_name: treasured-slug-175
+run_uuid: b05681fa05e34fbb98de578907997b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698811097077
+status: 3
+tags: []
+user_id: Vagis

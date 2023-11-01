@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/MLFLOW/mlflowtest/mlruns/0/fbe8c17628354469948351dae775d679/artifacts
+end_time: 1698811015981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbe8c17628354469948351dae775d679
+run_name: enchanting-loon-842
+run_uuid: fbe8c17628354469948351dae775d679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698811007298
+status: 3
+tags: []
+user_id: Vagis

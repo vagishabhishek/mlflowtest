@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/MLFLOW/mlflowtest/mlruns/0/50080550f9e449dea23f1bc8e17a6002/artifacts
+end_time: 1698811040987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50080550f9e449dea23f1bc8e17a6002
+run_name: luxuriant-dove-200
+run_uuid: 50080550f9e449dea23f1bc8e17a6002
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698811032560
+status: 3
+tags: []
+user_id: Vagis
